@@ -1,4 +1,4 @@
-
+0
 var text_re = "";
 d3.csv("data.csv", function(data){
 

@@ -65,7 +65,7 @@ function pause(){
 function play(){
     speechSynthesis.resume();
 }
-function for stop speaking
+// function for stop speaking
 function bolbabybol()
 {
   var a = document.getElementById("a");
